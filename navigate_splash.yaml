@@ -1,0 +1,9 @@
+flutter_native_splash:
+  color: "#eaba52" # رنگ پس‌زمینه (می‌توانی تغییر دهی)
+  image: assets/icon.png # مسیر لوگوی اپ
+  android: true
+  ios: true
+  fullscreen: true # نمایش تمام صفحه
+  android_12:
+    image: assets/icon.png
+    icon_background_color: "#f2d848"
